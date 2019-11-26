@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Quadax\bin\Debug\netcoreapp2.1\Quadax.deps.json
+C:\Users\David\source\repos\Quadax\bin\Debug\netcoreapp2.1\Quadax.runtimeconfig.json
+C:\Users\David\source\repos\Quadax\bin\Debug\netcoreapp2.1\Quadax.runtimeconfig.dev.json
+C:\Users\David\source\repos\Quadax\bin\Debug\netcoreapp2.1\Quadax.dll
+C:\Users\David\source\repos\Quadax\obj\Debug\netcoreapp2.1\Quadax.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Quadax\obj\Debug\netcoreapp2.1\Quadax.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Quadax\obj\Debug\netcoreapp2.1\Quadax.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Quadax\obj\Debug\netcoreapp2.1\Quadax.AssemblyInfo.cs
+C:\Users\David\source\repos\Quadax\bin\Debug\netcoreapp2.1\Quadax.pdb
+C:\Users\David\source\repos\Quadax\obj\Debug\netcoreapp2.1\Quadax.dll
+C:\Users\David\source\repos\Quadax\obj\Debug\netcoreapp2.1\Quadax.pdb
